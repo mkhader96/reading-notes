@@ -9,3 +9,4 @@
 
 - Class 1 : [Class 1](301/Class1.md)
 - Class 2 : [Class 2](301/Class2.md)
+- Class 3 : [Class 3](301/Class3.md)
