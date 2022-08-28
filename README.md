@@ -13,3 +13,4 @@
 - Class 4 : [Class 4](301/Class4.md)
 - Class 5 : [Class 5](301/Class5.md)
 - Class 6 : [Class 6](301/Class6.md)
+- Class 7 : [Class 7](301/Class7.md)
