@@ -16,4 +16,5 @@
 - Class 7 : [Class 7](301/Class7.md)
 - Class 8 : [Class 8](301/Class8.md)
 - Class 11 : [Class 11](301/Class11.md)
+- Class 12 : [Class 12](301/Class12.md)
 - Class 13 : [Class 13](301/Class13.md)
