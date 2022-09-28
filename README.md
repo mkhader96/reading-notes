@@ -5,8 +5,6 @@
 - ## Code 102 - Intro to Software Development
 - ## Code 201 - Foundations of Software Development
 - ## Code 301 - Intermediate Software Development
-- ## Code 401 - Advanced Software Development
-
 - Class 1 : [Class 1](301/Class1.md)
 - Class 2 : [Class 2](301/Class2.md)
 - Class 3 : [Class 3](301/Class3.md)
@@ -19,3 +17,6 @@
 - Class 12 : [Class 12](301/Class12.md)
 - Class 13 : [Class 13](301/Class13.md)
 - Class 15 : [Class 15](301/Class15.md)
+
+- ## Code 401 - Advanced Software Development
+
