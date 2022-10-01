@@ -19,5 +19,5 @@
 - Class 15 : [Class 15](301/Class15.md)..
 
 - ## Code 401 - Advanced Software Development
-- Class 1 : [Class 1](401Class1.md)
+- Class 1 : [Class 1](401-Class1.md)
 
