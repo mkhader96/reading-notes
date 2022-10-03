@@ -19,5 +19,7 @@
 - Class 15 : [Class 15](301/Class15.md)..
 
 - ## Code 401 - Advanced Software Development
-- Class 1 : [Class 1](401-Class1.md)
+- Class 1 : [Class 1](code-401-python/class-01/README.md)
+- Class 2 : [Class 2](code-401-python/class-02/README.md)
+
 
