@@ -24,6 +24,7 @@
 - Class 3 : [Class 3](code-401-python/class-03/README.md)
 - Class 4 : [Class 4](code-401-python/class-04/README.md)
 - Class 5 : [Class 5](code-401-python/class-05/README.md)
+- Class 8 : [Class 8](code-401-python/class-08/README.md)
 - Class 9 : [Class 9](code-401-python/class-09/README.md)
 
 
