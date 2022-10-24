@@ -27,6 +27,8 @@
 - Class 8 : [Class 8](code-401-python/class-08/README.md)
 - Class 9 : [Class 9](code-401-python/class-09/README.md)
 - Class 10 : [Class 10](code-401-python/class-10/README.md)
+- Class 11 : [Class 11](code-401-python/class-11/README.md)
+
 
 
 
