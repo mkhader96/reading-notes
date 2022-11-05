@@ -32,6 +32,7 @@
 - Class 13 : [Class 13](code-401-python/class-13/README.md)
 - Class 14 : [Class 14](code-401-python/class-14/README.md)
 - Class 15 : [Class 15](code-401-python/class-15/README.md)
+- Class 16 : [Class 16](code-401-python/class-16/README.md)
 
 
 
