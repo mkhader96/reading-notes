@@ -40,6 +40,8 @@
 - Class 23 : [Class 23](code-401-python/class-23/README.md)
 - Class 24 : [Class 24](code-401-python/class-24/README.md)
 - Class 25 : [Class 25](code-401-python/class-25/README.md)
+- Class 26 : [Class 26](code-401-python/class-26/README.md)
+
 
 
 
