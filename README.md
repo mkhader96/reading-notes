@@ -45,6 +45,7 @@
 - Class 28 : [Class 28](code-401-python/class-28/README.md)
 - Class 29 : [Class 29](code-401-python/class-29/README.md)
 - Class 30 : [Class 30](code-401-python/class-30/README.md)
+- Class 32 : [Class 32](code-401-python/class-32/README.md)
 
 
 
